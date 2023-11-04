@@ -6,5 +6,6 @@ const userObject ={
 //function
 const sayHello = function(){
     console.log("hitesh")
+    console.log("text")
 }
 
